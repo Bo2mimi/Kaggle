@@ -24,7 +24,7 @@ Top Ranker들의 공개된 커널을 필사했습니다.
 
 ## Project
 ### 1. Titanic
-1. [o]Tutorial: Exploratory data analysis, visualization, machine learning
+1. [✔️]Tutorial: Exploratory data analysis, visualization, machine learning
 2. EDA To Prediction(DieTanic)
 3. Titanic Top 4% with ensemble modeling
 4. Introduction to Ensembling/Stacking in Python
